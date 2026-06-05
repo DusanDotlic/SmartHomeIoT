@@ -1,0 +1,10 @@
+# Secrets — NEVER commit the real .env
+.env
+
+# Local database and generated reports
+*.db
+reports/
+
+# Python cache
+__pycache__/
+*.pyc

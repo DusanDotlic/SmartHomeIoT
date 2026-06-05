@@ -1,0 +1,10 @@
+# Smart Home IoT - Python dependencies
+# Install everything with:   pip install -r requirements.txt
+#
+# (sqlite3, smtplib, imaplib, email, threading, etc. are part of the Python
+#  standard library and do not need to be listed here.)
+
+pyserial>=3.5         # serial communication with the Arduino
+python-dotenv>=1.0    # loads secrets from the .env file
+requests>=2.28        # HTTP uploads to ThingSpeak
+matplotlib>=3.6       # daily-report graphs (PNG)
