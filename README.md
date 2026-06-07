@@ -16,8 +16,8 @@ serial.
 
 1. **Clone the repository**
    ```
-   git clone https://github.com/DusanDotlic/<repo-name>.git
-   cd <repo-name>/Python
+   git clone https://github.com/DusanDotlic/SmartHomeIoT.git
+   cd SmartHomeIoT/Python
    ```
 
 2. **Install dependencies**
